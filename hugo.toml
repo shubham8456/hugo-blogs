@@ -375,3 +375,8 @@ theme = "minimal-black"
   [privacy.youtube]
     privacyEnhanced = true
 ##########################################################################################
+# Cache Configuration
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+##########################################################################################
