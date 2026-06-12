@@ -1,7 +1,7 @@
 ##########################################################################################
 baseURL = "https://blog.solidstack.fyi"
 locale = "en-us"
-title = "Shubham Rawat"
+title = "Blog | Shubham Rawat"
 theme = "minimal-black"
 ##########################################################################################
 
@@ -71,7 +71,7 @@ theme = "minimal-black"
   # Home Page Configuration
 ##########################################################################################
   [params.home]
-    sections = ["hero", "now", "tech-marquee", "posts"]
+    sections = ["hero", "tech-marquee"]
     showNowSection = true
     showFeaturedProjects = true
     showLatestPosts = true
@@ -96,11 +96,11 @@ theme = "minimal-black"
       label = "Docker"
       icon = "devicon-docker-plain"
 
-    [[params.home.techReverse]]
+    [[params.home.tech]]
       label = "PostgreSQL"
       icon = "devicon-postgresql-plain"
 
-    [[params.home.techReverse]]
+    [[params.home.tech]]
       label = "MongoDB"
       icon = "devicon-mongodb-plain"
 
@@ -180,11 +180,10 @@ theme = "minimal-black"
   [params.hero]
     badge = "Software Engineer"
     title = "Hi, I'm Shubham Rawat."
-    role = "Software Engineer"
-    summary = "You can write your summary to be displayed here."
-    # avatar = "images/avatar.jpg"  # Optional: 400x400px recommended
+    summary = "I’m a Software Engineer with over 3 years of experience building scalable, cloud-native applications and integrating Generative AI into real-world systems. I specialize in backend development using Ruby on Rails and Python, with hands-on experience in Docker, AWS cloud."
+    # avatar = "images/avatar.png"  # Optional: 400x400px recommended
     location = "Bangalore, India"
-    focus = "Currently focused on Hugo themes & developer experience."
+    focus = "Software Development Engineer | APIs | Databases | Gen-AI"
     availableLabel = "Available for work"
 
     nowLabel = "Quick Facts"
