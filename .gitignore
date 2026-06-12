@@ -1,0 +1,32 @@
+# Hugo output
+/public/
+/resources/_gen/
+
+# Local server cache
+/.hugo_build.lock
+/.hugo_server.lock
+
+# Theme submodules (if you use git submodule, keep the folder but ignore its .git)
+**/themes/*/.git
+**/themes/*/.gitmodules
+
+# Node / frontend build artifacts (optional)
+node_modules/
+dist/
+build/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Editor/OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Optional: environment files, secrets
+.env
+.env.local
