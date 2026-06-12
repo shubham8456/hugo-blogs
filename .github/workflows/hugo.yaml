@@ -66,6 +66,16 @@ jobs:
       - name: Install Node.js dependencies
         run: |
           [[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true
+      - name: Install theme Node dependencies
+        working-directory: themes/minimal-black
+        run: |
+          if [ -f package-lock.json ] || [ -f npm-shrinkwrap.json ]; then
+            npm ci
+          elif [ -f package.json ]; then
+            npm install
+          else
+            echo "No package.json in themes/minimal-black, skipping"
+          fi
       - name: Configure Git
         run: |
           git config core.quotepath false

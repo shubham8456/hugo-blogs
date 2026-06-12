@@ -1,5 +1,5 @@
 ##########################################################################################
-baseURL = "https://blog.solidstack.fyi/"
+baseURL = "https://blog.solidstack.fyi"
 locale = "en-us"
 title = "Shubham Rawat"
 theme = "minimal-black"
