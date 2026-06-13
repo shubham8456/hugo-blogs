@@ -89,12 +89,140 @@ theme = "minimal-black"
       icon = "devicon-python-plain"
 
     [[params.home.tech]]
+      label = "Java"
+      icon = "devicon-java-plain"
+
+    [[params.home.tech]]
+      label = "JavaScript"
+      icon = "devicon-javascript-plain"
+
+    [[params.home.tech]]
+      label = "Rails"
+      icon = "devicon-rails-plain"
+
+    [[params.home.tech]]
+      label = "Jest"
+      icon = "devicon-jest-plain"
+
+    [[params.home.tech]]
+      label = "JetBrains"
+      icon = "devicon-jetbrains-plain"
+
+    [[params.home.tech]]
+      label = "Jira"
+      icon = "devicon-jira-plain"
+
+    [[params.home.tech]]
+      label = "JQuery"
+      icon = "devicon-jquery-plain"
+
+    [[params.home.tech]]
+      label = "AWS"
+      icon = "devicon-amazonwebservices-plain"
+
+    [[params.home.tech]]
       label = "GitLab"
       icon = "devicon-gitlab-plain"
 
     [[params.home.tech]]
+      label = "Anaconda"
+      icon = "devicon-anaconda-original"
+
+    [[params.home.tech]]
+      label = "Apple"
+      icon = "devicon-apple-original"
+
+    [[params.home.tech]]
+      label = "Apache"
+      icon = "devicon-apache-plain"
+
+    [[params.home.tech]]
+      label = "bash"
+      icon = "devicon-bash-plain"
+
+    [[params.home.tech]]
+      label = "Babel"
+      icon = "devicon-babel-plain"
+
+    [[params.home.tech]]
+      label = "Bootstrap"
+      icon = "devicon-bootstrap-plain"
+
+    [[params.home.tech]]
+      label = "Tailwind"
+      icon = "devicon-tailwindcss-original"
+
+    [[params.home.tech]]
+      label = "Canva"
+      icon = "devicon-canva-original"
+
+    [[params.home.tech]]
+      label = "Cloudflare"
+      icon = "devicon-cloudflare-plain"
+
+    [[params.home.tech]]
+      label = "Confluence"
+      icon = "devicon-confluence-plain"
+
+    [[params.home.tech]]
+      label = "CSS"
+      icone = "devicon-css3-plain"
+
+    [[params.home.tech]]
+      label = "DBeaver"
+      icon = "devicon-dbeaver-plain"
+    
+    [[params.home.tech]]
+      label = "Debian"
+      icon = "devicon-debian-plain"
+
+    [[params.home.tech]]
+      label = "Django"
+      icon = "devicon-django-plain"
+
+    [[params.home.tech]]
       label = "Docker"
       icon = "devicon-docker-plain"
+
+    [[params.home.tech]]
+      label = "DynamoDB"
+      icon = "devicon-dynamodb-plain"
+
+    [[params.home.tech]]
+      label = "Elastic Search"
+      icon = "devicon-elasticsearch-plain"
+
+    [[params.home.tech]]
+      label = "ES Lint"
+      icon = "devicon-eslint-plain"
+
+    [[params.home.tech]]
+      label = "Express"
+      icon = "devicon-express-original"
+
+    [[params.home.tech]]
+      label = "FastAPI"
+      icon = "devicon-fastapi-plain"
+
+    [[params.home.tech]]
+      label = "React"
+      icon = "devicon-react-original"
+
+    [[params.home.tech]]
+      label = "Figma"
+      icon = "devicon-figma-plain"
+
+    [[params.home.tech]]
+      label = "Filezilla"
+      icon = "devicon-filezilla-plain"
+
+    [[params.home.tech]]
+      label = "Firebase"
+      icon = "devicon-firebase-plain"
+
+    [[params.home.tech]]
+      label = "Flutter"
+      icon = "devicon-flutter-plain"
 
     [[params.home.tech]]
       label = "PostgreSQL"
@@ -104,13 +232,49 @@ theme = "minimal-black"
       label = "MongoDB"
       icon = "devicon-mongodb-plain"
 
+    [[params.home.tech]]
+      label = "SQL"
+      icon = "devicon-azuresqldatabase-plain"
+
     [[params.home.techReverse]]
       label = "Git"
       icon = "devicon-git-plain"
 
     [[params.home.techReverse]]
+      label = ""
+      icon = "devicon-go-original-wordmark"
+
+    [[params.home.techReverse]]
+      label = "Google Cloud"
+      icon = "devicon-googlecloud-plain"
+
+    [[params.home.techReverse]]
+      label = "Grafana"
+      icon = "devicon-grafana-plain"
+
+    [[params.home.techReverse]]
+      label = "GraphQL"
+      icon = "devicon-graphql-plain"
+
+    [[params.home.techReverse]]
+      label = "gRPC"
+      icon = "devicon-grpc-plain"
+
+    [[params.home.techReverse]]
+      label = "Homebrew"
+      icon = "devicon-homebrew-plain"
+
+    [[params.home.techReverse]]
+      label = "HTML5"
+      icon = "devicon-html5-plain"
+
+    [[params.home.techReverse]]
       label = "Hugo"
       icon = "devicon-hugo-plain"  
+
+    [[params.home.techReverse]]
+      label = "IntelliJ"
+      icon = "devicon-intellij-plain"
 
     [[params.home.techReverse]]
       label = "Jenkins"
@@ -121,20 +285,168 @@ theme = "minimal-black"
       icon = "devicon-jetbrains-plain" 
 
     [[params.home.techReverse]]
+      label = "Github"
+      icon = "devicon-github-original"
+
+    [[params.home.techReverse]]
       label = "Json"
-      icon = "devicon-json-plain" 
+      icon = "devicon-json-plain"
+
+    [[params.home.techReverse]]
+      label = "Jupyter"
+      icon = "devicon-jupyter-plain"
+
+    [[params.home.techReverse]]
+      label = "Kubernetes"
+      icon = "devicon-kubernetes-plain"
+
+    [[params.home.techReverse]]
+      label = ""
+      icon = "devicon-latex-original"
+
+    [[params.home.techReverse]]
+      label = "Lodash"
+      icon = "devicon-lodash-plain"
 
     [[params.home.techReverse]]
       label = "Linux"
-      icon = "devicon-linux-plain"      
+      icon = "devicon-linux-plain"
+
+    [[params.home.techReverse]]
+      label = "Maven"
+      icon = "devicon-maven-plain"
+
+    [[params.home.techReverse]]
+      label = "Next.js"
+      icon = "devicon-nextjs-plain"
+
+    [[params.home.techReverse]]
+      label = "Nginx"
+      icon = "devicon-nginx-original"
+
+    [[params.home.techReverse]]
+      label = ""
+      icon = "devicon-npm-original-wordmark"
+
+    [[params.home.techReverse]]
+      label = "OAuth"
+      icon = "devicon-oauth-plain"
+
+    [[params.home.techReverse]]
+      label = "OpenTelemetry"
+      icon = "devicon-opentelemetry-plain"
+
+    [[params.home.techReverse]]
+      label = "Podman"
+      icon = "devicon-podman-plain"
+
+    [[params.home.techReverse]]
+      label = "Postman"
+      icon = "devicon-postman-plain"
+
+    [[params.home.techReverse]]
+      label = "Prometheus"
+      icon = "devicon-prometheus-original"
+
+    [[params.home.techReverse]]
+      label = "Railway"
+      icon = "devicon-railway-original"
+
+    [[params.home.techReverse]]
+      label = "Rancher"
+      icon = "devicon-rancher-original"
+
+    [[params.home.techReverse]]
+      label = "Redis"
+      icon = "devicon-redis-plain"
+
+    [[params.home.techReverse]]
+      label = "Ruby"
+      icon = "devicon-ruby-plain"
+
+    [[params.home.techReverse]]
+      label = "Sass"
+      icon = "devicon-sass-original"
+
+    [[params.home.techReverse]]
+      label = "Slack"
+      icon = "devicon-slack-plain"
+
+    [[params.home.techReverse]]
+      label = "SourceTree"
+      icon = "devicon-sourcetree-original"
+
+    [[params.home.techReverse]]
+      label = "Stack Overflow"
+      icon = "devicon-stackoverflow-plain"
+
+    [[params.home.techReverse]]
+      label = "StreamLit"
+      icon = "devicon-streamlit-plain"
+
+    [[params.home.techReverse]]
+      label = "Supabase"
+      icon = "devicon-supabase-plain"
+
+    [[params.home.techReverse]]
+      label = "Swagger"
+      icon = "devicon-swagger-plain"
+
+    [[params.home.techReverse]]
+      label = "TensorFlow"
+      icon = "devicon-tensorflow-original"
+
+    [[params.home.techReverse]]
+      label = "Terraform"
+      icon = "devicon-terraform-plain"
+
+    [[params.home.techReverse]]
+      label = "Tomcat"
+      icon = "devicon-tomcat-line"
+
+    [[params.home.techReverse]]
+      label = "Tmux"
+      icon = "devicon-tmux-plain"
+
+    [[params.home.techReverse]]
+      label = "Twilio"
+      icon = "devicon-twilio-original"
+
+    [[params.home.techReverse]]
+      label = "TypeScript"
+      icon = "devicon-typescript-plain"
+
+    [[params.home.techReverse]]
+      label = "Ubuntu"
+      icon = "devicon-ubuntu-plain"
+
+    [[params.home.techReverse]]
+      label = "Vercel"
+      icon = "devicon-vercel-original"
+
+    [[params.home.techReverse]]
+      label = "Vim"
+      icon = "devicon-vim-plain"
+
+    [[params.home.techReverse]]
+      label = "VSCode"
+      icon = "devicon-vscode-plain"
+
+    [[params.home.techReverse]]
+      label = "Vite"
+      icon = "devicon-vite-original"
+
+    [[params.home.techReverse]]
+      label = "XCode"
+      icon = "devicon-xcode-plain"
 
     [[params.home.techReverse]]
       label = "Markdown"
-      icon = "devicon-markdown-original"  
+      icon = "devicon-markdown-original"
 
     [[params.home.techReverse]]
       label = "YAML"
-      icon = "devicon-yaml-plain"     
+      icon = "devicon-yaml-plain"
 ##########################################################################################
   # About Page Alternative Layout Configuration - Optional
   # [params.about.alt]
